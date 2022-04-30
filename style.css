@@ -1,0 +1,9 @@
+.col {
+    border-style: dashed;
+    border-color: lightblue;
+    border-width: 1px;
+}
+
+.filled {
+    background-color: black;
+}
